@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/kafka-basics/out/
+/kafka-basics/out/production/classes/
+/kafka-producer-wikimedia/out/
+/kafka-producer-wikimedia/out/production/classes/
